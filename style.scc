@@ -1,0 +1,51 @@
+body {
+    font-family: cursive;
+}
+
+header{
+    background-color: lightblue;
+}
+
+header img {
+    width: 60px;
+    height: 60px;
+}
+
+header p {
+    background-color: white;
+    color:blue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 img {
+    width: 150px;
+    height: 150px;
+}
+
+main p{
+    background-color: cyan;
+    border-left: 10px dotted darkcyan;
+    border-right: 10px dotted darkcyan;
+}
+p {
+    font-size: 20px;
+}
+
+p img {
+    width: 100px;
+    height: 100px;
+}
+
+footer {
+    background-color: cyan;
+    color: white;
+}
+
+footer p {
+    background-color: white;
+    color: blue;
+}
